@@ -38,5 +38,6 @@
   	<module>crm</module>
   	<module>module</module>
     <module>common</module>
+    <module>jettyDemo</module>
   </modules>
 </project>
